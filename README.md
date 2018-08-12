@@ -1,4 +1,4 @@
-# Phone Verification in C
+# Phone Verification in C<span>#</span>
 
 Example .NET core app using the [Twilio Verify API](https://www.twilio.com/docs/verify)
 
