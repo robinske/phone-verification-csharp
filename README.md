@@ -1,6 +1,8 @@
 # Phone Verification in C<span>#</span>
 
-Example .NET core app using the [Twilio Verify API](https://www.twilio.com/docs/verify)
+Full tutorial available in the docs: https://www.twilio.com/docs/verify/quickstart/phone-verification-net-core-csharp
+
+This is a small example .NET core app using the [Twilio Verify API](https://www.twilio.com/docs/verify)
 
 ## Running the program
 
